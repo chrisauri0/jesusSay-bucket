@@ -11,11 +11,5 @@
     },
     "bin": [
         "jesusSay.ps1"
-    ],
-    "shortcuts": [
-        {
-            "name": "jesusSay",
-            "target": "jesusSay.ps1"
-        }
     ]
 }
