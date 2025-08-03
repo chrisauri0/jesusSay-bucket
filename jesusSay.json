@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "description": "A PowerShell function that shows a Bible verse and ASCII cross.",
+    "homepage": "https://github.com/chrisauri0/jesusSay",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/chrisauri0/jesusSay/raw/main/jesusSay.ps1",
+            "hash": "SHA256:D55A606749311EC994B5DE6FE980DCAFCA9C4666E8EC3642ADE9DACD8014C729"
+        }
+    },
+    "bin": [
+        "jesusSay.ps1"
+    ],
+    "shortcuts": [
+        {
+            "name": "jesusSay",
+            "target": "jesusSay.ps1"
+        }
+    ]
+}
