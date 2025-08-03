@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A PowerShell function that shows a Bible verse and ASCII cross.",
     "homepage": "https://github.com/chrisauri0/jesusSay",
     "license": "MIT",
